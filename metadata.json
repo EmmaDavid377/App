@@ -1,0 +1,6 @@
+{
+  "name": "EmmaDavid Nexus",
+  "description": "Premium luxury event coordination and live inventory tracking hub for EmmaDavid Nexus International Limited, with customized gold aesthetics and AI-powered guest communication guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
